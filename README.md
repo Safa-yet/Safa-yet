@@ -10,6 +10,8 @@
 </p>
 
 
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 - 🔭 I’m currently working on [Sundarban Tour & Travels](https://sundarban-travels-tour.vercel.app/)
 
 - 🌱 I’m currently exploring **Next.js**
