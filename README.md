@@ -5,6 +5,9 @@
 
 <h1 align="left">👋 Hey, I'm Safayet Ul Islam</h1>
 <h3 align="left">🚀 Frontend Developer | React & Next.js | WordPress Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hey+👋+I'm+Safayet+Ul+Islam;Frontend+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Experiences+🚀" />
+</p>
 
 
 - 🔭 I’m currently working on [Sundarban Tour & Travels](https://sundarban-travels-tour.vercel.app/)
