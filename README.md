@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safa-yet&label=Profile%20views&color=0e75b6&style=flat" alt="safa-yet" /> </p>
-<img width="2064" height="512" alt="github-banner" class src="https://github.com/user-attachments/assets/eaa72745-9b69-4567-954c-675c8cc06e2c" />
+<img width="1376" height="768" alt="a_more_refined_and_visually_stunning_version_of_the_github_developer_banner_for" src="https://github.com/user-attachments/assets/1f82836b-5fd2-41cd-ae27-8b8ec428c64c" />
+
 <div align="center">
 
 # Hi 👋, I'm Safayet Ul Islam
