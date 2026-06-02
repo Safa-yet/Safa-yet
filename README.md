@@ -2,23 +2,29 @@
 <img width="2064" height="512" alt="github-banner" class src="https://github.com/user-attachments/assets/eaa72745-9b69-4567-954c-675c8cc06e2c" />
 <div align="center">
 
-# 👋 Hi, I'm Safayet Ul Islam
+# Hi 👋, I'm Safayet Ul Islam
 
-### Full Stack Developer | MERN Stack Engineer | Next.js Developer
+### Full Stack Developer | MERN Stack | Next.js Developer
 
-<p>
-Building modern, scalable and user-focused web applications with React, Next.js, Node.js and MongoDB.
-</p>
+Building scalable, responsive and modern web applications with React, Next.js, Node.js and MongoDB.
 
-<p>
-<a href="https://safayet-islam.netlify.app/">🌐 Portfolio</a>
-•
-<a href="mailto:mdsafayet315@gmail.com">📧 Email</a>
-•
-<a href="https://linkedin.com/in/safayet-ul-islam">💼 LinkedIn</a>
-</p>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=safa-yet&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<a href="https://safayet-islam.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:mdsafayet315@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/safayet-ul-islam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=safa-yet&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -26,43 +32,13 @@ Building modern, scalable and user-focused web applications with React, Next.js,
 
 ## 🚀 About Me
 
-```javascript
-const safayet = {
-  role: "Full Stack Developer",
-  location: "Bangladesh",
-  
-  frontend: [
-    "React",
-    "Next.js",
-    "JavaScript",
-    "TypeScript",
-    "Tailwind CSS"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST API"
-  ],
-
-  database: [
-    "MongoDB",
-    "PostgreSQL"
-  ],
-
-  authentication: [
-    "Better Auth",
-    "JWT"
-  ],
-
-  currentlyLearning: [
-    "System Design",
-    "Advanced Backend Architecture"
-  ],
-
-  goal: "Building scalable production-ready applications"
-}
-```
+* 💼 Full Stack Web Developer
+* ⚛️ Specialized in React, Next.js and modern frontend development
+* 🔥 Building full-stack applications using MERN Stack
+* 🔐 Experienced with Authentication, Better Auth and JWT
+* 🎨 Strong focus on clean UI, UX and responsive design
+* 🌱 Currently learning System Design and scalable backend architecture
+* 🌍 Open to remote opportunities and freelance projects
 
 ---
 
@@ -86,7 +62,7 @@ const safayet = {
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
@@ -98,70 +74,60 @@ const safayet = {
 
 ### 🐾 Pet Bond
 
-Modern pet adoption platform where users can:
+A modern pet adoption platform that connects pet owners and adopters through a seamless experience.
 
-* Browse pets
-* Submit adoption requests
-* Manage pet listings
-* Secure authentication system
+### Key Features
 
-**Tech Used**
+* Authentication & Authorization
+* Pet Listing Management
+* Adoption Request System
+* Responsive UI
+* Protected Routes
 
-`Next.js` `MongoDB` `Node.js` `Express.js` `Better Auth` `Tailwind CSS`
+**Tech Stack**
+
+`Next.js` • `Node.js` • `Express.js` • `MongoDB` • `Better Auth` • `Tailwind CSS`
 
 ---
 
 ### 🌿 Sundarban Tour & Travels
 
-Tour and travel booking platform with modern UI and responsive experience.
+A modern tourism website designed to showcase travel packages and provide an engaging booking experience.
 
-### Live Site
+### Key Features
+
+* Fully Responsive Design
+* Modern User Interface
+* Package Showcase
+* Interactive Sections
+
+**Tech Stack**
+
+`React` • `Node.js` • `MongoDB` • `Tailwind CSS`
+
+🌐 Live Site:
 
 https://sundarban-travels-tour.vercel.app/
 
-**Tech Used**
-
-`React` `Node.js` `MongoDB` `Tailwind CSS`
-
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=safa-yet&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=safa-yet&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safa-yet&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safa-yet&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=safa-yet&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=safa-yet&theme=tokyo-night"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=safa-yet&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=safa-yet&theme=github-dark&hide_border=true" />
 
 </div>
 
@@ -169,28 +135,30 @@ https://sundarban-travels-tour.vercel.app/
 
 ## 🎯 Current Focus
 
-* Building Full Stack Applications
-* Mastering Next.js
-* Learning System Design
-* Backend Scalability
-* Authentication & Security
-* Clean Architecture
+```txt
+✓ Full Stack Development
+✓ Next.js Ecosystem
+✓ Backend Architecture
+✓ Authentication & Security
+✓ Clean Code Practices
+✓ System Design
+```
 
 ---
 
-## 🌎 Let's Connect
+## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/safayet-ul-islam">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/safayet-ul-islam" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://twitter.com/safayetbroo">
-<img src="https://skillicons.dev/icons?i=twitter"/>
+<a href="https://twitter.com/safayetbroo" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
 <a href="mailto:mdsafayet315@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
@@ -200,8 +168,8 @@ https://sundarban-travels-tour.vercel.app/
 
 ### 💻 Full Stack Developer
 
-*"Turning ideas into scalable web applications."*
+Building modern web experiences with performance, scalability and clean architecture.
 
-⭐ Thanks for visiting my profile.
+⭐ Thanks for visiting my profile!
 
 </div>
