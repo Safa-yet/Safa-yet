@@ -56,13 +56,7 @@ A passionate **Full-Stack Developer** based in Dhaka, Bangladesh, specializing i
 </table>
 
 <br>
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=safa-yet&theme=algolia&no-frame=true&row=1&column=7" />
-
-</div>
 ## 🛠 Tech Stack
 
 ### Frontend
