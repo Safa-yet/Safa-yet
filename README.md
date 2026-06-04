@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safa-yet&label=Profile%20views&color=0e75b6&style=flat" alt="safa-yet" /> </p>
-<img width="1376" height="768" alt="a_more_refined_and_visually_stunning_version_of_the_github_developer_banner_for" src="https://github.com/user-attachments/assets/1f82836b-5fd2-41cd-ae27-8b8ec428c64c" />
+<img width="1983" height="793" alt="ChatGPT Image Jun 5, 2026, 12_28_41 AM" src="https://github.com/user-attachments/assets/f2faee4f-13b0-4330-9a29-f4102a79b4a9" />
+
 
 <div align="center">
 
