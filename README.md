@@ -187,6 +187,16 @@ https://tour-nest-nu.vercel.app/
 <a href="mailto:mdsafayet315@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+<br>
+
+📧 **Email:** [mdsafayet315@gmail.com](mailto:mdsafayet315@gmail.com)
+
+📱 **Phone:** +88 01612554864
+
+🌐 **Portfolio:** https://safayetdev.vercel.app
+
+📄 **Resume:** https://drive.google.com/file/d/1b0P_V5WlZ0urdy_pUBUNcBw6uK-ZuoBA/view
+
 </p>
 
 ---
