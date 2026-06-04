@@ -34,6 +34,14 @@ Building scalable, responsive and modern web applications with React, Next.js, N
 A passionate **Full-Stack Developer** based in Dhaka, Bangladesh, specializing in crafting premium, high-performance web applications. With a strong foundation in frontend aesthetics and scalable backend architectures, I bridge the gap between clean UI/UX design and robust engineering.
 
 <br>
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=safa-yet&theme=github-dark&hide_border=true"/>
+
+</div>
+<br>
 
 <table>
   <tr>
