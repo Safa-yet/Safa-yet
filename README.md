@@ -12,7 +12,7 @@ Building scalable, responsive and modern web applications with React, Next.js, N
 
 <br>
 
-<a href="https://safayet-islam.netlify.app/" target="_blank">
+<a href="https://safayetdev.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -26,23 +26,33 @@ Building scalable, responsive and modern web applications with React, Next.js, N
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=safa-yet&label=Profile+Views&color=0e75b6&style=flat" />
-
 </div>
 
 ---
-
 ## 🚀 About Me
 
-* 💼 Full Stack Web Developer
-* ⚛️ Specialized in React, Next.js and modern frontend development
-* 🔥 Building full-stack applications using MERN Stack
-* 🔐 Experienced with Authentication, Better Auth and JWT
-* 🎨 Strong focus on clean UI, UX and responsive design
-* 🌱 Currently learning System Design and scalable backend architecture
-* 🌍 Open to remote opportunities and freelance projects
+A passionate **Full-Stack Developer** based in Dhaka, Bangladesh, specializing in crafting premium, high-performance web applications. With a strong foundation in frontend aesthetics and scalable backend architectures, I bridge the gap between clean UI/UX design and robust engineering.
 
----
+<br>
+
+<table>
+  <tr>
+    <td>🏢 <b>Current Focus</b></td>
+    <td>Engineering production-ready apps using <b>Next.js</b>, <b>MongoDB</b>, and advanced state management.</td>
+  </tr>
+  <tr>
+    <td>🔐 <b>Security & Auth</b></td>
+    <td>Experienced in implementing secure sessions with <b>Better Auth</b>, <b>JWT</b>, and role-based access control.</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Learning Curve</b></td>
+    <td>Diving deep into <b>System Design</b>, microservices, and scalable backend infrastructures.</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Availability</b></td>
+    <td>Open to global remote roles, freelance contracts, and exciting open-source collaborations.</td>
+  </tr>
+</table>
 
 ## 🛠 Tech Stack
 
@@ -76,43 +86,56 @@ Building scalable, responsive and modern web applications with React, Next.js, N
 
 ### 🐾 Pet Bond
 
-A modern pet adoption platform that connects pet owners and adopters through a seamless experience.
+Developed a full-stack pet adoption platform that simplifies the adoption process by enabling users to discover, manage, and adopt pets through a secure and intuitive web application. Built a scalable system featuring authentication, adoption workflows, and pet management functionalities to improve user engagement and accessibility.
 
 ### Key Features
 
 * Authentication & Authorization
-* Pet Listing Management
-* Adoption Request System
-* Responsive UI
+* Pet Listing and Management System
+* Pet Adoption Workflow
+* User Dashboard
 * Protected Routes
+* Role-Based Access Control
+* Responsive User Interface
+* Modern UI/UX Experience
+* CRUD Operations
+* Secure Backend API Integration
 
 **Tech Stack**
 
 `Next.js` • `Node.js` • `Express.js` • `MongoDB` • `Better Auth` • `Tailwind CSS`
+
 🌐 Live Site:
 
 https://pet-bond-indol.vercel.app/
 
 ---
+### 🌍 TourNest
 
-### 🌿 Sundarban Tour & Travels
-
-A modern tourism website designed to showcase travel packages and provide an engaging booking experience.
+A full-stack tour management platform that enables travelers to discover, plan, and book trips seamlessly while providing an organized system to manage travel schedules, bookings, and tour information.
 
 ### Key Features
 
-* Fully Responsive Design
-* Modern User Interface
-* Package Showcase
-* Interactive Sections
+* Secure Authentication & Authorization
+* Tour Package Browsing and Booking System
+* Trip Schedule and Itinerary Management
+* User Dashboard for Managing Bookings
+* Tour Details and Destination Information
+* Protected Routes and Role-Based Access Control
+* Responsive Design for All Devices
+* Modern and Intuitive User Interface
+* CRUD Operations for Tour Management
+* Secure Backend API Integration
 
 **Tech Stack**
 
-`React` • `Node.js` • `MongoDB` • `Tailwind CSS`
+`Next.js` • `Node.js` • `Express.js` • `MongoDB` • `Better Auth` • `Tailwind CSS`
+
+🚧 Status: Currently In Development
 
 🌐 Live Site:
 
-https://sundarban-travels-tour.vercel.app/
+https://tour-nest-nu.vercel.app/
 
 ---
 
