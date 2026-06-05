@@ -71,7 +71,7 @@ A passionate **Full-Stack Developer** based in Dhaka, Bangladesh, specializing i
 <br>
 <br>
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 
