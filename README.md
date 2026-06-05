@@ -67,6 +67,8 @@ A passionate **Full-Stack Developer** based in Dhaka, Bangladesh, specializing i
   <img src="https://streak-stats.demolab.com?user=safa-yet&theme=github-dark-blue&hide_border=true" />
 </p>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safa-yet&theme=tokyonight)
+
 
 <br>
 ## 🛠 Tech Stack
