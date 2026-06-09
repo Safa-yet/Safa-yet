@@ -6,7 +6,7 @@
 
 # Hi 👋, I'm Safayet Ul Islam
 
-### Full Stack Developer | MERN Stack | Next.js Developer
+### Full Stack Developer
 
 Building scalable, responsive and modern web applications with React, Next.js, Node.js and MongoDB.
 
