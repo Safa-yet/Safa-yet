@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm Safayet Ul Islam
+# Hi, I'm Safayet Ul Islam
 
 ### Full Stack Developer
 
@@ -29,7 +29,7 @@ Building scalable, responsive and modern web applications with React, Next.js, N
 </div>
 
 ---
-## 🚀 About Me
+##  About Me
 
 A passionate **Full-Stack Developer** based in Dhaka, Bangladesh, specializing in crafting premium, high-performance web applications. With a strong foundation in frontend aesthetics and scalable backend architectures, I bridge the gap between clean UI/UX design and robust engineering.
 
