@@ -101,6 +101,68 @@ A passionate **Full-Stack Developer** based in Dhaka, Bangladesh, specializing i
 
 ## 🔥 Featured Projects
 
+## 🍽️ CookLy — Full Stack Recipe Sharing Platform
+
+A production-ready **Recipe Sharing & Subscription Platform** that empowers food enthusiasts to publish, discover, purchase, and manage recipes through a secure and scalable web application. Built with a real-world SaaS architecture featuring premium memberships, role-based dashboards, secure authentication, and online payment integration.
+
+### ✨ Highlights
+
+* 👨‍🍳 **Recipe Management** — Create, edit, delete, and organize recipes with images, ingredients, cooking instructions, pricing, cuisine type, and difficulty level.
+* 🔎 **Recipe Discovery** — Browse community recipes with instant search, category-based filtering, featured recipes, wishlist support, and recipe likes.
+* 💳 **Subscription & Payments** — Integrated **Stripe Checkout** for secure subscription payments, premium memberships, recipe publishing limits, and premium recipe purchases.
+* 👥 **Role-Based Dashboards** — Dedicated **User** and **Admin** dashboards for managing recipes, purchases, subscriptions, users, payments, and platform activities.
+* 🛡️ **Authentication & Authorization** — Secure authentication using **Better Auth** with protected routes, session management, and role-based access control.
+* ⚙️ **Admin Control Panel** — Manage users, block/unblock accounts, monitor subscriptions, track payment history, and moderate recipes from a centralized dashboard.
+* 🌗 **Modern User Experience** — Responsive design with Dark/Light mode, smooth animations, custom error handling, and an intuitive UI optimized for all devices.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🔐 Authentication
+
+* 🔑 Better Auth
+* 🛡️ JWT
+* 🍪 Secure Session Authentication
+
+### 💳 Payments
+
+* 💰 Stripe Checkout
+* 🔄 Stripe Subscriptions
+* 📄 Transaction Tracking
+
+---
+
+## 🌍 Live Demo
+
+🔗 **Live:** [https://your-live-site.vercel.app](https://cookly-client.vercel.app/)
+
+## 📂 Source Code
+
+💻 **Client:** https://github.com/Safa-yet/cookly-client
+
+⚙️ **Server:** https://github.com/Safa-yet/cookly-server
+
+---
+
 ### 🐾 Pet Bond
 
 Developed a full-stack pet adoption platform that simplifies the adoption process by enabling users to discover, manage, and adopt pets through a secure and intuitive web application. Built a scalable system featuring authentication, adoption workflows, and pet management functionalities to improve user engagement and accessibility.
@@ -126,33 +188,7 @@ Developed a full-stack pet adoption platform that simplifies the adoption proces
 
 https://pet-bond-indol.vercel.app/
 
----
-### 🌍 TourNest
 
-A full-stack tour management platform that enables travelers to discover, plan, and book trips seamlessly while providing an organized system to manage travel schedules, bookings, and tour information.
-
-### Key Features
-
-* Secure Authentication & Authorization
-* Tour Package Browsing and Booking System
-* Trip Schedule and Itinerary Management
-* User Dashboard for Managing Bookings
-* Tour Details and Destination Information
-* Protected Routes and Role-Based Access Control
-* Responsive Design for All Devices
-* Modern and Intuitive User Interface
-* CRUD Operations for Tour Management
-* Secure Backend API Integration
-
-**Tech Stack**
-
-`Next.js` • `Node.js` • `Express.js` • `MongoDB` • `Better Auth` • `Tailwind CSS`
-
-🚧 Status: Currently In Development
-
-🌐 Live Site:
-
-https://tour-nest-nu.vercel.app/
 
 ---
 
