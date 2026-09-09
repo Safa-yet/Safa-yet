@@ -1,203 +1,274 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safa-yet&label=Profile%20views&color=0e75b6&style=flat" alt="safa-yet" /> </p>
-<img width="1983" height="793" alt="ChatGPT Image Jun 5, 2026, 12_28_41 AM" src="https://github.com/user-attachments/assets/f2faee4f-13b0-4330-9a29-f4102a79b4a9" />
-
-
 <div align="center">
 
-# Hi, I'm Safayet Ul Islam
+# Hi, I'm Safayet Ul Islam 👋
 
-### Full Stack Developer
+### Full Stack Developer | Backend & Production Systems
 
-Building scalable, responsive and modern web applications with React, Next.js, Node.js and MongoDB.
+I build and maintain **scalable, secure, and production-ready applications** — from backend architecture and APIs to admin systems, integrations, deployment, and ongoing production support.
 
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://safayetdev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/safayet-ul-islam/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mdsafayet315@gmail.com)
 
-<a href="https://safayetdev.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="mailto:mdsafayet315@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/safayet-ul-islam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br>
+![Profile Views](https://komarev.com/ghpvc/?username=Safa-yet\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
 </div>
 
 ---
-##  About Me
 
-A passionate **Full-Stack Developer** based in Dhaka, Bangladesh, specializing in crafting premium, high-performance web applications. With a strong foundation in frontend aesthetics and scalable backend architectures, I bridge the gap between clean UI/UX design and robust engineering.
+## 👨‍💻 About Me
 
-<br>
+I'm a **Full Stack Developer based in Dhaka, Bangladesh**, currently working at **R2A Information Technology**.
 
+My work goes beyond building interfaces or isolated APIs. I contribute across the complete application lifecycle — from implementing features and backend services to managing databases, integrating external services, troubleshooting production issues, and deploying applications.
+
+I currently work with commercial systems involving **customer, driver, vendor, and administrative workflows**, where reliability, security, maintainability, and smooth communication between different parts of the platform are essential.
+
+I also explore **AI-driven workflows and automation** to reduce repetitive work, improve development processes, and build more efficient application workflows.
+
+---
+
+## 💼 Professional Experience
+
+### Full Stack Developer — R2A Information Technology
+
+`May 2026 – Present` · `Dhaka, Bangladesh` · `On-site`
+
+* Develop and maintain production-ready web applications, backend services, and REST APIs.
+* Build and manage authentication, authorization, database operations, role-based systems, and third-party integrations.
+* Work with **Admin and Vendor management systems** supporting real-world operational workflows.
+* Integrate mobile applications, external APIs, notifications, and payment services with backend systems.
+* Handle production deployment, server configuration, debugging, maintenance, and application improvements.
+* Collaborate across frontend, backend, mobile, and business requirements to deliver reliable product functionality.
+
+---
+
+## ⚡ What I Work With
 
 <table>
-  <tr>
-    <td>🏢 <b>Current Focus</b></td>
-    <td>Engineering production-ready apps using <b>Next.js</b>, <b>MongoDB</b>, and advanced state management.</td>
-  </tr>
-  <tr>
-    <td>🔐 <b>Security & Auth</b></td>
-    <td>Experienced in implementing secure sessions with <b>Better Auth</b>, <b>JWT</b>, and role-based access control.</td>
-  </tr>
-  <tr>
-    <td>🌱 <b>Learning Curve</b></td>
-    <td>Diving deep into <b>System Design</b>, microservices, and scalable backend infrastructures.</td>
-  </tr>
-  <tr>
-    <td>💼 <b>Availability</b></td>
-    <td>Open to global remote roles, freelance contracts, and exciting open-source collaborations.</td>
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=safa-yet&show_icons=true&theme=github_dark&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safa-yet&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=safa-yet&theme=github-dark-blue&hide_border=true" />
-</p>
-
-
-<br>
-<br>
-
-## 🛠 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
-</p>
-
----
-
-## 🔥 Featured Projects
-
-## 🍽️ CookLy — Full Stack Recipe Sharing Platform
-
-A production-ready **Recipe Sharing & Subscription Platform** that empowers food enthusiasts to publish, discover, purchase, and manage recipes through a secure and scalable web application. Built with a real-world SaaS architecture featuring premium memberships, role-based dashboards, secure authentication, and online payment integration.
-
-### ✨ Highlights
-
-* 👨‍🍳 **Recipe Management** — Create, edit, delete, and organize recipes with images, ingredients, cooking instructions, pricing, cuisine type, and difficulty level.
-* 🔎 **Recipe Discovery** — Browse community recipes with instant search, category-based filtering, featured recipes, wishlist support, and recipe likes.
-* 💳 **Subscription & Payments** — Integrated **Stripe Checkout** for secure subscription payments, premium memberships, recipe publishing limits, and premium recipe purchases.
-* 👥 **Role-Based Dashboards** — Dedicated **User** and **Admin** dashboards for managing recipes, purchases, subscriptions, users, payments, and platform activities.
-* 🛡️ **Authentication & Authorization** — Secure authentication using **Better Auth** with protected routes, session management, and role-based access control.
-* ⚙️ **Admin Control Panel** — Manage users, block/unblock accounts, monitor subscriptions, track payment history, and moderate recipes from a centralized dashboard.
-* 🌗 **Modern User Experience** — Responsive design with Dark/Light mode, smooth animations, custom error handling, and an intuitive UI optimized for all devices.
-
----
-
-## 🛠️ Tech Stack
+<tr>
+<td width="50%" valign="top">
 
 ### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
-</p>
+* React.js
+* Next.js
+* JavaScript
+* TypeScript
+* Tailwind CSS
+* Bootstrap
+* Responsive UI
+* Performance Optimization
+
+</td>
+<td width="50%" valign="top">
 
 ### ⚙️ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+* Node.js
+* Express.js
+* RESTful APIs
+* Authentication & Authorization
+* Role-Based Access Control
+* API Architecture
+* Third-Party Integrations
+* Payment Integration
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🗄️ Database
 
+* PostgreSQL
+* MongoDB
+* Prisma ORM
+* Mongoose
+* Database Design
+* Data Modeling
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Deployment
+
+* AWS EC2
+* Nginx
+* Firebase
+* Vercel
+* Linux / Ubuntu
+* Git & GitHub
+* Environment Configuration
+* Production Debugging
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+
+### Languages & Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap" />
 </p>
 
-### 🔐 Authentication
+### Backend & Database
 
-* 🔑 Better Auth
-* 🛡️ JWT
-* 🍪 Secure Session Authentication
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" />
+</p>
 
-### 💳 Payments
+### Cloud, DevOps & Tools
 
-* 💰 Stripe Checkout
-* 🔄 Stripe Subscriptions
-* 📄 Transaction Tracking
-
----
-
-## 🌍 Live Demo
-
-🔗 **Live:** [https://your-live-site.vercel.app](https://cookly-client.vercel.app/)
-
-## 📂 Source Code
-
-💻 **Client:** https://github.com/Safa-yet/cookly-client
-
-⚙️ **Server:** https://github.com/Safa-yet/cookly-server
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,firebase,vercel,nginx,linux,git,github,postman,vscode,figma" />
+</p>
 
 ---
 
-### 🐾 Pet Bond
+## 🤖 AI Workflow & Automation
 
-Developed a full-stack pet adoption platform that simplifies the adoption process by enabling users to discover, manage, and adopt pets through a secure and intuitive web application. Built a scalable system featuring authentication, adoption workflows, and pet management functionalities to improve user engagement and accessibility.
+Alongside traditional full-stack development, I work with modern automation and AI-assisted workflows to improve development and operational efficiency.
+
+* AI/API integration into application workflows
+* n8n workflow automation
+* API-driven task automation
+* Automated data and service workflows
+* AI-assisted development and debugging
+* Exploring practical AI features for production applications
+
+---
+
+# 🚀 Featured Work
+
+## 🚕 YJEEK — Multi-Service On-Demand Platform
+
+**Commercial Production Project · Bahrain**
+
+A production-level multi-service ecosystem connecting **Customers, Drivers, Vendors, and Administrators** through mobile applications, backend services, and web-based management systems.
+
+### My Contribution
+
+* Backend development and REST API maintenance
+* PostgreSQL database operations with Prisma
+* Customer, Driver, Vendor, and Admin workflows
+* Authentication and role-based access management
+* Admin and Vendor management systems
+* Mobile application backend integration
+* Payment and transaction workflows
+* Firebase integrations and notifications
+* AWS EC2 production deployment
+* Nginx and server configuration
+* Production debugging and maintenance
+* Database connectivity and environment management
+
+### Technology
+
+`Node.js` `Express.js` `PostgreSQL` `Prisma` `Firebase` `AWS EC2` `Nginx` `REST APIs` `RBAC` `Payment Integration`
+
+> 🔒 This is a commercial client project. Source code and private repositories are not publicly available.
+
+**📱 Application**
+
+[Google Play](ADD_GOOGLE_PLAY_LINK) · [App Store](ADD_APP_STORE_LINK)
+
+---
+
+## 🍽️ CookLy — Recipe Sharing & Premium Membership Platform
+
+A full-stack recipe marketplace and subscription platform where users can publish, discover, purchase, and manage recipes with premium membership functionality.
 
 ### Key Features
 
-* Authentication & Authorization
-* Pet Listing and Management System
-* Pet Adoption Workflow
-* User Dashboard
-* Protected Routes
-* Role-Based Access Control
-* Responsive User Interface
-* Modern UI/UX Experience
-* CRUD Operations
-* Secure Backend API Integration
+* Recipe publishing and management
+* Search and category filtering
+* Likes and wishlist
+* Recipe purchases
+* Free, Pro & Premium memberships
+* Stripe Checkout and subscriptions
+* Premium content access
+* Role-based User & Admin dashboards
+* Authentication and authorization
+* Payment and transaction management
+* Responsive Dark / Light UI
 
-**Tech Stack**
+### Technology
 
-`Next.js` • `Node.js` • `Express.js` • `MongoDB` • `Better Auth` • `Tailwind CSS`
+`Next.js` `React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Stripe` `Better Auth` `JWT`
 
-🌐 Live Site:
+### Links
 
-https://pet-bond-indol.vercel.app/
-
-
+🌐 [Live Demo](https://cookly-client.vercel.app/)
+💻 [Frontend Repository](https://github.com/Safa-yet/CookLy_Client)
+⚙️ [Backend Repository](https://github.com/Safa-yet/CookLy_Server)
 
 ---
 
-## 📊 GitHub Statistics
+## 🐾 Pet Bond — Pet Adoption & Fundraising Platform
 
+A full-stack platform connecting pet owners and potential adopters through centralized pet listing, adoption request, management, and fundraising workflows.
+
+### Key Features
+
+* Pet listing and management
+* Adoption request workflow
+* Multi-role dashboards
+* Authentication and authorization
+* Role-based access control
+* User and pet management
+* Donation and fundraising functionality
+* Protected routes
+* Responsive user experience
+
+### Technology
+
+`Next.js` `React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Better Auth` `JWT`
+
+### Links
+
+🌐 [Live Demo](https://pet-bond-indol.vercel.app/)
+💻 [Frontend Repository](https://github.com/Safa-yet/Pet_Bond_Client)
+⚙️ [Backend Repository](https://github.com/Safa-yet/Pet_Bond_Server)
+
+---
+
+## 🎯 Engineering Focus
+
+```text
+Production Backend Development
+REST API Design & Integration
+Scalable Application Architecture
+Authentication & Authorization
+Role-Based Systems
+Database Design & Management
+Payment Gateway Integration
+Cloud Deployment & Server Management
+Production Debugging & Maintenance
+AI Workflow & Automation
+System Design
+Clean & Maintainable Code
+```
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safa-yet&theme=github_dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Safa-yet&show_icons=true&hide_border=true&theme=github_dark" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safa-yet&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Safa-yet&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -207,59 +278,39 @@ https://pet-bond-indol.vercel.app/
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=safa-yet&theme=github-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Safa-yet&theme=github-dark&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🤝 Let's Connect
 
-```txt
-✓ Full Stack Development
-✓ Next.js Ecosystem
-✓ Backend Architecture
-✓ Authentication & Security
-✓ Clean Code Practices
-✓ System Design
-```
+I'm interested in working on challenging products where I can contribute across **backend development, full-stack engineering, production systems, integrations, deployment, and automation**.
 
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/safayet-ul-islam" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://twitter.com/safayetbroo" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-<a href="mailto:mdsafayet315@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<br>
-
-📧 **Email:** [mdsafayet315@gmail.com](mailto:mdsafayet315@gmail.com)
-
-📱 **Phone:** +88 01612554864
-
-🌐 **Portfolio:** https://safayetdev.vercel.app
-
-📄 **Resume:** https://drive.google.com/file/d/1b0P_V5WlZ0urdy_pUBUNcBw6uK-ZuoBA/view
-
+<p>
+  <a href="https://safayetdev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/safayet-ul-islam/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mdsafayet315@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+**Portfolio:** https://safayetdev.vercel.app/
+**LinkedIn:** https://www.linkedin.com/in/safayet-ul-islam/
+**Email:** [mdsafayet315@gmail.com](mailto:mdsafayet315@gmail.com)
 
 ---
 
 <div align="center">
 
-### 💻 Full Stack Developer
+### Full Stack Developer · Backend · Production Systems · Cloud · Automation
 
-Building modern web experiences with performance, scalability and clean architecture.
-
-⭐ Thanks for visiting my profile!
+**Building reliable products from development to production.**
 
 </div>
+
