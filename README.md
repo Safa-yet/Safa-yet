@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="1983" height="793" alt="603026203-f2faee4f-13b0-4330-9a29-f4102a79b4a9" src="https://github.com/user-attachments/assets/e50b264d-b4f8-4025-a849-53b7b168e11d" />
+
+
 # Hi, I'm Safayet Ul Islam 👋
 
 ### Full Stack Developer | Backend & Production Systems
@@ -42,7 +45,11 @@ I also explore **AI-driven workflows and automation** to reduce repetitive work,
 * Collaborate across frontend, backend, mobile, and business requirements to deliver reliable product functionality.
 
 ---
-
+### Front end Developer Intern — Rupsha It Park  
+` Aug 2025 – Feb 2026`, `Khulna, Bangladesh ( Remote )`
+* Developed responsive Portfolio and Landing Pages from Figma designs using React.js, Next.js, Tailwind CSS.
+* Managed the complete front end development process from design to deployment.
+---
 ## ⚡ What I Work With
 
 <table>
